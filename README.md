@@ -1,3 +1,3 @@
 # Toxic Comment Detection
 
-WIP
+Place data from Kaggle into `./data` folder.

@@ -1,3 +1,3 @@
 # Toxic Comment Detection
 
-Place data from Kaggle into `./data` folder.
+To run the nodebook, place data from Kaggle into `./data` folder and run `pip3 install -r requirements.txt` in this folder.
